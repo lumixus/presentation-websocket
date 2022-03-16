@@ -9,6 +9,7 @@ const wsClient = ws.client;
 
 
 const server = http.createServer( (req, res) => {
+    console.log("Server created!");
 
 });
 
