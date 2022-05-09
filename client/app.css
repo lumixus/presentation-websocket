@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+#slideWrapper{
+    height: 100vh;
+    width: 100vw;
+    background-color: gray;
+}
+
+
+.slide-item-wrapper{
+    display: none;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.presentation-header{
+    font-weight: bold;
+    font-size: 66px;
+    color:white;
+
+}
+
+
+
