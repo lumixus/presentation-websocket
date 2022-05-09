@@ -14,15 +14,15 @@ const slideObject = {
     images : [
         {
         imgName : "slide1",
-        url : "https://images3.alphacoders.com/608/thumb-1920-608887.jpg"
+        url : "https://images.unsplash.com/photo-1552872673-9b7b99711ebb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
     },
     {
         imgName : "slide2",
-        url : "https://i.ytimg.com/vi/nEkS8n40Jf4/maxresdefault.jpg"
+        url : "https://images.unsplash.com/photo-1584009577996-0227b2358356?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
     },
     {
         imgName : "slide3",
-        url : "https://sm.ign.com/ign_tr/news/i/it-takes-t/it-takes-two-is-getting-an-adaptation-for-the-big-and-small_fvs5.jpg"
+        url : "https://images.unsplash.com/photo-1606481021733-5e269f7d87f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80"
     },
 
 ]
